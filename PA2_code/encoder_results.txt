@@ -1,0 +1,19 @@
+(cse256-) nhojatnia@vscode-dsmlp-1:~/private/pa2$ python PA2_code/main.py 
+Loading data and creating tokenizer ...
+Vocabulary size is 5755
+number of params 577107
+Epoch 0 Test accuracy:  33.333333333333336
+Epoch 1 Test accuracy:  43.6
+Epoch 2 Test accuracy:  46.8
+Epoch 3 Test accuracy:  55.86666666666667
+Epoch 4 Test accuracy:  56.266666666666666
+Epoch 5 Test accuracy:  56.0
+Epoch 6 Test accuracy:  63.46666666666667
+Epoch 7 Test accuracy:  66.8
+Epoch 8 Test accuracy:  70.4
+Epoch 9 Test accuracy:  66.53333333333333
+Epoch 10 Test accuracy:  72.4
+Epoch 11 Test accuracy:  73.2
+Epoch 12 Test accuracy:  74.53333333333333
+Epoch 13 Test accuracy:  75.6
+Epoch 14 Test accuracy:  77.46666666666667

@@ -1,0 +1,20 @@
+(base) nhojatnia@vscode-dsmlp-1:~/private/pa2$  cd /home/nhojatnia/private/pa2 ; /usr/bin/env /home/nhojatnia/.conda/envs/cse256-/bin/python /home/nhojatnia/.vscode-server/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 36403 -- /home/nhojatnia/private/pa2/PA2_code/main.py 
+Loading data and creating tokenizer ...
+Vocabulary size is 5755
+Number of trainable parameters: 575212
+Total number of parameters: 575212
+Epoch 0, test accuracy: 33.33
+Epoch 1, test accuracy: 43.20
+Epoch 2, test accuracy: 39.60
+Epoch 3, test accuracy: 46.27
+Epoch 4, test accuracy: 56.13
+Epoch 5, test accuracy: 62.40
+Epoch 6, test accuracy: 64.93
+Epoch 7, test accuracy: 70.80
+Epoch 8, test accuracy: 74.93
+Epoch 9, test accuracy: 74.67
+Epoch 10, test accuracy: 75.60
+Epoch 11, test accuracy: 77.33
+Epoch 12, test accuracy: 77.60
+Epoch 13, test accuracy: 78.27
+Epoch 14, test accuracy: 78.53
